@@ -1,18 +1,3 @@
---------------------
-BDMEP - INMET
---------------------
-Estação           : CURITIBA - PR (OMM: 83842)
-Latitude  (graus) : -25.43
-Longitude (graus) : -49.26
-Altitude  (metros): 923.50
-Estação Operante
-Inicio de operação: 01/01/1911
-Periodo solicitado dos dados: 01/01/1980 a 31/12/2017
-Os dados listados abaixo são os que encontram-se digitados no BDMEP
-Hora em UTC
---------------------
-Obs.: Os dados aparecem separados por ; (ponto e vírgula) no formato txt.
---------------------
 Estacao;Data;Hora;DirecaoVento;VelocidadeVentoMedia;VelocidadeVentoMaximaMedia;EvaporacaoPiche;EvapoBHPotencial;EvapoBHReal;InsolacaoTotal;NebulosidadeMedia;NumDiasPrecipitacao;PrecipitacaoTotal;PressaoNivelMarMedia;PressaoMedia;TempMaximaMedia;TempCompensadaMedia;TempMinimaMedia;UmidadeRelativaMedia;VisibilidadeMedia;
 83842;31/01/1980;0000;18;;7.6;59.2;;;;5.705882;;16.6;;909.970588;26.364706;19.523529;15.023529;75.279412;;
 83842;29/02/1980;0000;5;2.351923;4.8;39.2;;;;7.730769;;32.1;;909.690385;25.941176;20.191765;16.688235;82.323529;;
