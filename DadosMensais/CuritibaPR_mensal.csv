@@ -12,7 +12,7 @@ Os dados listados abaixo são os que encontram-se digitados no BDMEP
 Hora em UTC
 --------------------
 Obs.: Os dados aparecem separados por ; (ponto e vírgula) no formato txt.
-      Para o formato planilha XLS, <A HREF="instrucao.html" TARGET="_top" rel="facebox">siga as instruções</a>
+Para o formato planilha XLS, <A HREF="instrucao.html" TARGET="_top" rel="facebox">siga as instruções</a>
 --------------------
 Estacao;Data;Hora;DirecaoVento;VelocidadeVentoMedia;VelocidadeVentoMaximaMedia;EvaporacaoPiche;EvapoBHPotencial;EvapoBHReal;InsolacaoTotal;NebulosidadeMedia;NumDiasPrecipitacao;PrecipitacaoTotal;PressaoNivelMarMedia;PressaoMedia;TempMaximaMedia;TempCompensadaMedia;TempMinimaMedia;UmidadeRelativaMedia;VisibilidadeMedia;
 83842;31/01/1980;0000;18;;7.6;59.2;;;;5.705882;;16.6;;909.970588;26.364706;19.523529;15.023529;75.279412;;
